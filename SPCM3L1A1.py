@@ -1,7 +1,5 @@
-def weather_condition():
-  print("weather is pleasent in",spring)
-  print("weather is same in",autumn)
+def well_wishes():
+  print("Hello")
+  print("How are you?")
 
-spring="autumn"
-autumn="winter"
-weather_condition()
+well_wishes()
